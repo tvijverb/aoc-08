@@ -1,0 +1,10 @@
+LR
+
+QQA = (QQB, XXX)
+QQB = (XXX, QQZ)
+QQZ = (QQB, XXX)
+UUA = (UUB, XXX)
+UUB = (UUC, UUC)
+UUC = (UUZ, UUZ)
+UUZ = (UUB, UUB)
+XXX = (XXX, XXX)
